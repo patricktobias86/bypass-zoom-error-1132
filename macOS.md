@@ -1,7 +1,7 @@
 # SOLUTION FOR ERROR 1132 ON MACOS
 ### Follow these instructions to bypass Error 1132 from your computer, this works for both Mac using M and Intel chips and with all versions of Zoom (October 2023).
 
-1. Download Zoom from zoom.us and install it as you normally would.
+1. Download Zoom from [zoom.us](https://zoom.us/download) and install it as you normally would.
 2. Open the Zoom app after you installed it.
 3. At the top macOS menu, on the left of your screen click on the “Go” tab and select the “Go To Folder” option.
 4. Navigate to `User/[USER]/Library/Application Support/zoom.us/data/`.
